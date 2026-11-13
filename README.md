@@ -1,13 +1,32 @@
+# Hi there, I'm Quoc Le 👋
+### A.K.A **blueb3r1**
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/blueb3r1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/blueb3r1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blueb3r1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:levitquac2508@gmail.com) 
+I'm currently an undergraduate student majoring in **Computer Networks and Communications** at the **University of Information Technology (UIT - VNU-HCM)**. *I want to become a DevSecOps Engineer*.
 
+### 🔭 Currently, I am...
+-   Developing and maintaining `blueb3r1-dotfiles` — my minimal Hyprland (Wayland) setup on EndeavourOS (Arch based) featuring the Everforest color palette 🌿.
 
+### 🛠️ Tech Stack & Environment
+-   **Operating Systems:** EndeavourOS (Linux), Windows 11.
+-   **Window Managers & Environment:** Hyprland, Wayland.
+-   **System Utilities:** Foot terminal, Waybar, Rofi, Mako, Thunar, Fastfetch, fcitx5.
+-   **Programming:** C++, Python (basic), Arduino.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🏆 Achievements & Awards
+-   **Third Prize** — Provincial-level Excellent Student Competition in Informatics (2024-2025)
+-   **Silver Medal** — Olympic Competition in Informatics (2024-2025)
+-   **Consolation Prize** — Provincial-level Excellent Student Competition in Informatics (2022-2023)
+-   **Third Prize** — District-level Excellent Student Competition in Informatics (2022-2023)
+
+### ⚡ Outside of coding
+When I'm not customizing my system or studying, you can usually find me:
+-   📸 **Photography** 
+-   🎧 **Music** 
+-   ⚽ **Sport** 
+-   **Gaming**
 
 ---
-[![](https://komarev.com/ghpvc/?username=blueb3r1&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 **Let's connect:**
+-   **Email:** levitquac2508@gmail.com
+<!-- -   **LinkedIn:** [] -->
+-   **Facebook:** https://fb.com/blueb3r1
