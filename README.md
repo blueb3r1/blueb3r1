@@ -1,7 +1,7 @@
 # Hi there, I'm Quoc Le 👋
 ### A.K.A **blueb3r1**
 
-I'm currently an undergraduate student majoring in **Department of Computer Networks and Communications** at the **University of Information Technology (UIT - VNU-HCM)**. *I want to become a DevSecOps Engineer*.
+I'm currently an undergraduate student in **Department of Computer Networks and Communications** at the **University of Information Technology (UIT - VNU-HCM)**. *I want to become a DevSecOps Engineer*.
 
 ### 🔭 Currently, I am...
 -   Developing and maintaining `blueb3r1-dotfiles` — my minimal Hyprland (Wayland) setup on EndeavourOS (Arch based) featuring the Everforest color palette 🌿.
